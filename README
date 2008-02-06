@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2143
+
+The UniVerse BASIC syntax file highlights the programming language used in IBM's UniVerse multivalue database application.  This file is extracted from Lubomir Husar's DataStage syntax file (vimscript #1310) and focuses on only the data related to UniVerse BASIC.  All the DataStage-specific items remain in the previous script.
